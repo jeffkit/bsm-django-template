@@ -1,3 +1,0 @@
-[submodule "bsm-django"]
-	path = bsm-django
-	url = git@gitee.com:gitmen/bsm-django.git
